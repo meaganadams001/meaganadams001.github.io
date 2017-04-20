@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+@import url('https://fonts.googleapis.com/css?family=Abel');
+
+#img1 {
+	height:25px;
+	width:1400px;
+	padding-left:12px;
+}
+
+
+#header {
+	color: #40002D;
+	text-align: center;
+	font-family: 'Open Sans Condensed', arial;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border:1px solid black;
+}
+
+img {
+	height: 125px;
+	width: 125px;
+
+}
+
+#one {
+	color: #601048;
+	text-align: center;
+	font-family: 'Abel', arial;
+}
+
+#two {
+	color: #A15089;
+	font-family:'Open Sans Condensed', arial;
+
+}
+
+/* MEDIA QUERIES */
+@media screen (min-width: 980px)(max-width: 980px)
